@@ -26,7 +26,7 @@ body {
   background-size: cover;
 }
 
-#mc_embed_signup{background:transparent; color: black; clear:left; font:14px Helvetica,Arial,sans-serif; padding: 5px; margin-top: 40%;}
+#mc_embed_signup{background:transparent; color: black; clear:left; font:14px Helvetica,Arial,sans-serif; padding: 5px; margin-top: 40%; text-align: center !important;}
 
 .navbar {background: url(../img/navbar.png);}
 .navbar div ul li a  {color: white !important; text-transform: uppercase; font-size: 15px; padding: 10px; }
