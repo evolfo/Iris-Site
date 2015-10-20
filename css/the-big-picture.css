@@ -33,15 +33,21 @@ body {
 #options li a  {padding-top: 15px !important;}
 #social {float: right;}
 
+#center2 #quotes {margin-top: 5px;}
+#center2 #quotes2 {margin-top: -8px;}
+#pressMargin {margin-top: 62px;}
+
 #center {color: white; text-align: center;}
 #center ul {list-style-type: none; padding: 0px;}
-#center ul li {list-style-type: none; font-size: 20px; color: #D8A939;} 
+#center ul li {list-style-type: none; font-size: 20px; color: rgba(230, 189, 91, 0.83); padding: 7px;} 
 #center img {margin-bottom: 40px;}
+
 
 #center2 {color: white; text-align: center;}
 #center2 ul {list-style-type: none; padding: 0px;}
 #center2 ul li {list-style-type: none; font-size: 20px;} 
 #center2 h1 {margin-bottom: 40px;}
 #center2 p {font-size: 18px; margin-bottom: 0px; margin-top: 20px}
-#center2 a {color: #C19F16;}
+#center2 a {color: rgba(230, 189, 91, 0.83);}
 #center2 img {margin-bottom: 40px;}
+#center2 span {margin-top: 5px;}
