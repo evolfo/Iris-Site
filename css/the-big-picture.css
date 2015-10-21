@@ -28,6 +28,9 @@ img {display: block; margin-left: auto; margin-right: auto;}
   background-size: cover;
 }
 
+
+
+
 #mc_embed_signup{background:transparent; color: black; clear:left; font:14px Helvetica,Arial,sans-serif; padding: 5px; margin-top: 40%; text-align: center !important;}
 
 .navbar {background: url(../img/navbar.png);}
@@ -36,6 +39,10 @@ img {display: block; margin-left: auto; margin-right: auto;}
 @media (max-width: 768px) {
 	.navbar-nav>li {float: left;}
 }
+@media (max-width: 480px) {
+   	.full {background: url(../img/bg-mobile.jpg) no-repeat center center fixed !important;}
+}
+
 
 #options li a  {padding-top: 15px !important; font-weight: 100;}
 #social {float: right;}
