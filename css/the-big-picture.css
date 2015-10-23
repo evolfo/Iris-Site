@@ -53,7 +53,7 @@ img {display: block; margin-left: auto; margin-right: auto;}
 
 #center {color: white; text-align: center;}
 #center ul {list-style-type: none; padding: 0px;}
-#center ul li {list-style-type: none; font-size: 20px; color: rgba(230, 189, 91, 0.83); padding: 7px; font-weight: 200; letter-spacing: 1.5px;} 
+#center ul li {list-style-type: none; font-size: 20px; color: rgba(255, 232, 139, 0.87); padding: 7px; font-weight: 200; letter-spacing: 1.5px;} 
 #center img {margin-bottom: 40px;}
 #center table {text-align: center;}
 
@@ -63,6 +63,8 @@ img {display: block; margin-left: auto; margin-right: auto;}
 #center2 ul li {list-style-type: none; font-size: 20px;} 
 #center2 h1 {margin-bottom: 40px;}
 #center2 p {font-size: 18px; font-weight: 200; margin-bottom: 0px; margin-top: 20px; letter-spacing: 0.5px;}
-#center2 a {color: rgba(230, 189, 91, 0.83); font-weight: 200; letter-spacing: 1.5px;}
+#center2 a {color: rgba(255, 232, 139, 0.87); font-weight: 200; letter-spacing: 1.5px;}
 #center2 img {margin-bottom: 40px;}
 #center2 span {margin-top: 5px;}
+
+.col-md-6 table tr td select {margin: 5px;}
