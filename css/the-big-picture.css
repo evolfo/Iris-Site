@@ -31,7 +31,7 @@ img {display: block; margin-left: auto; margin-right: auto;}
 
 
 
-#mc_embed_signup{background:transparent; color: black; clear:left; font:14px Helvetica,Arial,sans-serif; padding: 5px; margin-top: 40%; text-align: center !important;}
+#mc_embed_signup{background:transparent; color: black; clear:left; font:14px Helvetica,Arial,sans-serif; padding: 5px; margin-top: 34%; text-align: center !important;}
 
 .navbar {background: url(../img/navbar.png);}
 .navbar div ul li a  {color: white !important; text-transform: uppercase; font-size: 15px; padding: 10px; }
@@ -50,7 +50,7 @@ img {display: block; margin-left: auto; margin-right: auto;}
 
 #center2 #quotes {margin-top: 5px;}
 #center2 #quotes2 {margin-top: -8px;}
-#pressMargin {margin-top: 62px;}
+#pressMargin {margin-top: 20px;}
 
 #center {color: white; text-align: center;}
 #center ul {list-style-type: none; padding: 0px;}
