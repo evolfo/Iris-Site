@@ -41,11 +41,13 @@ img {display: block; margin-left: auto; margin-right: auto;}
 @media (max-width: 768px) {
 	.navbar-nav>li {float: left;}
 }
+
+/*
 @media (max-width: 480px) {
    	.full {background: url(../img/bg-mobile.jpg) no-repeat center center fixed !important;}
    	.full2 {background: url(../img/bg-mobile.jpg) no-repeat center center fixed !important;}
 }
-
+*/
 
 #options li a  {padding-top: 15px !important; font-weight: 100;}
 #social {float: right;}
