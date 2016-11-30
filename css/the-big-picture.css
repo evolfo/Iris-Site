@@ -92,3 +92,7 @@ img {display: block; margin-left: auto; margin-right: auto;}
 #center2 span {margin-top: 5px;}
 
 .col-md-6 table tr td select {margin: 5px;}
+
+.img-responsive {
+  max-width: 100%, height: auto;
+}
