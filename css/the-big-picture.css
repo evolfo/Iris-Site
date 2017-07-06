@@ -131,8 +131,12 @@ img {display: block; margin-left: auto; margin-right: auto;}
 
 
 
+/* Sign up page CSS */
 
-
+.sign-up-page-box {padding-top: 25vh; box shadow: ;}
+.thanks-background {background: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    border-radius: 20px;}
 
 
 
