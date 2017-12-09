@@ -53,6 +53,14 @@ img {display: block; margin-left: auto; margin-right: auto;}
     background-color: #191a1e;
 }
 
+.full-ep2 {
+  background: url(../img/ep2.jpg) center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-color: #191a1e;
+}
+
 .upcoming li a {color: rgba(255, 232, 139, 0.87);}
 .upcoming {margin-bottom: 40px;}
 .upcoming img {padding: 20px;}
@@ -174,3 +182,12 @@ img {display: block; margin-left: auto; margin-right: auto;}
 
 .store-item {padding-bottom: 10px;}
 .store-item select {color:black;}
+<<<<<<< HEAD
+=======
+
+.store {color:black;}
+
+/* Live page css */
+
+#powered > a {display: none !important;}
+>>>>>>> origin/gh-pages
