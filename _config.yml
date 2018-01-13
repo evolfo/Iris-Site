@@ -17,7 +17,7 @@ title: Iris Lune
 email: irislune.music@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website for Brooklyn based indie electronic band Iris Lune. 
-baseurl: /Iris-New # the subpath of your site, e.g. /blog
+baseurl: /Iris-Site # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iris_lune
 #github_username:  jekyll
